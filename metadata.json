@@ -1,0 +1,5 @@
+{
+  "name": "BibuAI - Job Search Engine",
+  "description": "A high-performance job search engine for Tech+Sales hybrids. Features automated ingestion simulation, financial data enrichment, and Gemini 3 Pro powered suitability analysis.",
+  "requestFramePermissions": []
+}
